@@ -41,4 +41,4 @@ jobs:
           push: true
           tags: | #(1)
             ivangm89/actionsdockernodeapp:latest 
-            ghcr.io/IvanGM89/actionsdockernodeapp:latest 
+            ghcr.io/ivangm89/actionsdockernodeapp:latest 
